@@ -8,5 +8,5 @@ First, we explore the data through exploratory data analysis and discover patter
 Finally, we perform some experimental time series analysis on the data. <br>
 
 The main code is located in main.py, where we perform all the modeling and test all the algorithms. <br>
-presentation.pdf shows the presentation that we showed our professor in class. <br>
-final_report.pdf details a summary of our project and intricacies including results. 
+final_presentation.pdf shows the presentation that we showed our professor in class. <br>
+project_report.pdf details a summary of our project and intricacies including results. 
