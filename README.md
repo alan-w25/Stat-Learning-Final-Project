@@ -5,4 +5,8 @@ In this project, we apply a full data science analysis process on the UCI Online
 
 First, we explore the data through exploratory data analysis and discover patterns in the data and clean the data of missing and skewed values. Then, we apply unsupervised approaches to cluster types of customers by frequency of purchases. We utilize K-means clustering and elbow method to determine the optimal number of clusters. Our supervised approach then includes the comparison of 3 models: linear regression, decision tree, and random forest to predict the unit price of the items given other features in the data set. <br>
 
-Finally, we perform some experimental time series analysis on the data. 
+Finally, we perform some experimental time series analysis on the data. <br>
+
+The main code is located in main.py, where we perform all the modeling and test all the algorithms. <br>
+presentation.pdf shows the presentation that we showed our professor in class. <br>
+final_report.pdf details a summary of our project and intricacies including results. 
